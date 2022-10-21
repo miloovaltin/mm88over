@@ -1,0 +1,16 @@
+{
+"name": "mm88over",
+"theme": "mm88over",
+"version": "5.5.5",
+"description": "mm88over สมัครเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ รับโบนัสเครดิตฟรี",
+"keywords": [
+"mm88over",
+"mm88over เครดิตฟรี",
+"mm88over ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/mm88over",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
